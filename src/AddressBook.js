@@ -12,7 +12,8 @@ AddressBook.prototype.addContact = function(contact) {
 AddressBook.prototype.getContact = function(index) {
 	return this.contacts[index];
 }
-
+// writing the deleteContact function using the splice method of an array to 
+// remove an element
 AddressBook.prototype.deleteContact = function(index) {
 	this.contacts.splice(index, 1);
 }
