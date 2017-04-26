@@ -46,7 +46,7 @@ suite (group of related specs). Used to provide an organization tool/level of in
 
 # Step 6
 <!-- add a 'delete contact' spec feature -->
-	- 
+	- define a new spec with the 'it' method to delete a contact
 
 
 

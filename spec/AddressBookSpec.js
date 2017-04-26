@@ -9,7 +9,10 @@ describe('Address Book', function() {
 		expect(addressBook.getContact(0)).toBe(thisContact);
 	});
 	it('should be able to delete a contact', function() {
+		var addressBook = new AddressBook();
+			thisContact = new Contact();
 
+		
 	});
 });
 
