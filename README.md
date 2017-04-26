@@ -47,7 +47,8 @@ suite (group of related specs). Used to provide an organization tool/level of in
 # Step 6
 <!-- add a 'delete contact' spec feature -->
 	- define a new spec with the 'it' method to delete a contact
-
+	- represent addressBook and thisContact variables
+	- add contact to addressbook so I can delete it. 
 
 
 <!-- p.s. make sure to do code cleanup from the following link: -->
