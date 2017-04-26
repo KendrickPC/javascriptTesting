@@ -16,13 +16,14 @@ suite (group of related specs). Used to provide an organization tool/level of in
 
 # Red-Green Refactor Cycle 
 <!-- Put into use by writing AddressBookSpec.js application -->
+	Run SpecRunner.html file for testing
 
 # Step 1
 	- Being able to add a contact
 	- Write a test for it in the Spec file
 
 # Step 2 
-	- 
+	- Describe a new suite and create a new spec within the suite. 
 
 
 
