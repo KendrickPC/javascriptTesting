@@ -9,3 +9,4 @@ describe('Address Book', function() {
 		expect(addressBook.getContact(0)).toBe(thisContact);
 	});
 });
+

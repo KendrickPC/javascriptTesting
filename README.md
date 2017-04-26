@@ -29,8 +29,11 @@ suite (group of related specs). Used to provide an organization tool/level of in
 	- Test that 'thisContact' was added to my addressBook.
 
 # Step 3
-	- Check SpecRunner.html. Error occurs in line 5. AddressBook is not define. 
-	- 
+	- Check SpecRunner.html. Error occurs in line 5. AddressBook is not define. Write a simple constructor function for AddressBook in the source file. 
+	- The SpecRunner.html file shows 'Contact is not define'. 
+	- Create a simple constructor function for Contact in the Contact.js source file. 
+# Step 4
+	- Implement addressBook.addContact is not a function
 
 
 <!-- p.s. make sure to do code cleanup from the following link: -->
