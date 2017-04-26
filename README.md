@@ -66,6 +66,7 @@ Testing asynchronous code.
 		- write a getInitialContacts function
 		- use a setTimeout function to make an asynchronous test
 
+# Step 10
 
 
 
