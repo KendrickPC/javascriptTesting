@@ -38,6 +38,11 @@ suite (group of related specs). Used to provide an organization tool/level of in
 		- Implement addressBook.addContact is not a function failure by the following lines of code:
 <!-- write a new function called addContact that accepts a contact as a parameter and pushes this contact into the contacts array
  -->
+# Step 5
+	- Fix 'addressBook.getContact is not a function' error
+	
+
+
 
 <!-- p.s. make sure to do code cleanup from the following link: -->
 	https://dirtymarkup.com/ 

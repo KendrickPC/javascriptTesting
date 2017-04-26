@@ -8,3 +8,7 @@ function AddressBook () {
 AddressBook.prototype.addContact = function(contact) {
 	this.contacts.push(contact);
 }
+// solution to 'addressBook.getContact is not a function' error
+AddressBook.prototype.getContact = function(index) {
+	return this.contacts[index];
+}
