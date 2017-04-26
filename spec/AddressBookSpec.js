@@ -1,12 +1,10 @@
 describe('Address Book', function() {
-	var addressBook, 
-		thisContact; 
-
+	var addressBook,
+		thisContact;
 	beforeEach(function() {
 		addressBook = new addressBook();
 		thisContact = new Contact();
 	});
-
 	it('should be able to add a contact', function() {
 		// Take the OOJS approach
 		// Represent a new addressBook
@@ -16,8 +14,6 @@ describe('Address Book', function() {
 	it('should be able to delete a contact', function() {
 		addressBook.addContact(thisContact);
 		addressBook.deleteContact(0);
-
 		expect(addressBook.getContact(0)).not.toBeDefined();
 	});
 });
-

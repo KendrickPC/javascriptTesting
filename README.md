@@ -59,6 +59,16 @@ suite (group of related specs). Used to provide an organization tool/level of in
 	- Learn about Jasmine's beforeEach function. 
 		http://stackoverflow.com/questions/17317839/how-to-reuse-beforeeach-aftereach-in-jasmine-js
 	- move the addressBook and thisContact variables up to the suite itself. Therefore, this makes both the variables global scope variables and makes them accessible through local scope variables. 
+
+# Step 9
+Testing asynchronous code. 
+	- We're just going to fake our aynchronous functionality 
+		- write a getInitialContacts function
+		- use a setTimeout function to make an asynchronous test
+
+
+
+
 <!-- p.s. make sure to do code cleanup from the following link: -->
 	https://dirtymarkup.com/ 
 
