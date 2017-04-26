@@ -3,6 +3,8 @@ describe('Address Book', function() {
 		// Take the OOJS approach
 		// Represent a new addressBook
 		var addressBook = new AddressBook();
+			thisContact = new Contact();
 
+		addressBook.addContact(thisContact);
 	});
 });
