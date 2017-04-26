@@ -24,6 +24,8 @@ suite (group of related specs). Used to provide an organization tool/level of in
 
 # Step 2 
 	- Describe a new suite and create a new spec within the suite. 
+	- Represent a new addressBook object via the OOJS approach.
+	- 
 
 
 
