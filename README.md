@@ -30,11 +30,14 @@ suite (group of related specs). Used to provide an organization tool/level of in
 
 # Step 3
 	- Check SpecRunner.html. Error occurs in line 5. AddressBook is not define. Write a simple constructor function for AddressBook in the source file. 
-	- The SpecRunner.html file shows 'Contact is not define'. 
+	- The SpecRunner.html file shows 'Contact is not defined'. 
 	- Create a simple constructor function for Contact in the Contact.js source file. 
 # Step 4
-	- Implement addressBook.addContact is not a function
-
+	http://stackoverflow.com/questions/36514468/jasmine-throws-one-error-error-timeout-async-callback-was-not-invoked
+		- add properties to the class
+		- Implement addressBook.addContact is not a function failure by the following lines of code:
+<!-- write a new function called addContact that accepts a contact as a parameter and pushes this contact into the contacts array
+ -->
 
 <!-- p.s. make sure to do code cleanup from the following link: -->
 	https://dirtymarkup.com/ 
