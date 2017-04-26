@@ -50,6 +50,9 @@ suite (group of related specs). Used to provide an organization tool/level of in
 	- represent addressBook and thisContact variables
 	- add contact to addressbook so I can delete it. 
 
+# Step 7
+<!-- solve addressBook.deleteContact is not a function issue -->
+	- 
 
 <!-- p.s. make sure to do code cleanup from the following link: -->
 	https://dirtymarkup.com/ 
