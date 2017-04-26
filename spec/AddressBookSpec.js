@@ -8,5 +8,8 @@ describe('Address Book', function() {
 		addressBook.addContact(thisContact);
 		expect(addressBook.getContact(0)).toBe(thisContact);
 	});
+	it('should be able to delete a contact', function() {
+
+	});
 });
 

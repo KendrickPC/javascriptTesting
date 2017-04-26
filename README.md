@@ -44,6 +44,10 @@ suite (group of related specs). Used to provide an organization tool/level of in
 	- Fix 'addressBook.getContact is not a function' error
 	- All specs are passing and address book should be able to add a contact
 
+# Step 6
+<!-- add a 'delete contact' spec feature -->
+	- 
+
 
 
 <!-- p.s. make sure to do code cleanup from the following link: -->
