@@ -28,7 +28,9 @@ suite (group of related specs). Used to provide an organization tool/level of in
 	- Added add contact method to my addressBook.
 	- Test that 'thisContact' was added to my addressBook.
 
-
+# Step 3
+	- Check SpecRunner.html. Error occurs in line 5. AddressBook is not define. 
+	- 
 
 
 <!-- p.s. make sure to do code cleanup from the following link: -->
